@@ -1,0 +1,7 @@
+{
+  "name": "ion-loader-dismiss-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
